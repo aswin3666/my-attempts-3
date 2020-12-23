@@ -1,0 +1,45 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background: gray;
+    margin-left: 400px;
+    border: solid darkred 3px;
+}
+.screen{
+    width: 400px;
+    height: 70px;
+    background: rgb(70, 95, 163);
+}
+#scree{
+    width: 90%;
+    height: 80%;
+    margin-left: 3.8%;
+    margin-top: 1%;
+    pointer-events: none;
+    font-size: xx-large;
+}
+.row{
+    padding-top: 25px;
+}
+.btn{
+    width: 80px;
+    height: 60px;
+    border: solid 2px;
+    margin-left: 13PX;
+    background: cyan;
+    font: bold;
+    font-size: x-large;
+}
+.delete{
+    width: 80px;
+    height: 60px;
+    border: solid 2px;
+    margin-left: 13PX;
+    background: cyan;
+    margin-top: 25px;
+    font: bold;
+    font-size: x-large;
+}
+body{
+    background: lightblue;
+}
